@@ -5,7 +5,7 @@ Converts PNG (and probably other image files) to .mif files used by e.g. Cyclone
 ## Dependencies
 
 - _Python 3_
-- _PIL_ (Python Image Library) or _Pillow_ (User friendly PIL)
+- _PIL_ (Python Image Library) or _Pillow_ (User friendly PIL) [link](https://pypi.python.org/pypi/Pillow/2.7.0)
 
 ## Usage
 >$ python Imageparser.py inputfile.png outputfile.mif
