@@ -3,7 +3,9 @@
 Converts PNG (and probably other image files) to .mif files used by e.g. Cyclone FPGA from Altera.
 
 ## Dependencies
-_Python 3_
-_PIL_ (Python Image Library) or _Pillow_ (User friendly PIL)
+
+- _Python 3_
+- _PIL_ (Python Image Library) or _Pillow_ (User friendly PIL)
+
 ## Usage
->$ python Imageparser.py <inputfile.png> <outputfile.mif>
+>$ python Imageparser.py inputfile.png outputfile.mif
